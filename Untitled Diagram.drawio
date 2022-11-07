@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T21:05:57.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1LqQES1NV1yr5JYO5xpB" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T21:23:54.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fy_RfRGb-PV3X12cYZDQ" version="20.5.3" type="github">
   <diagram id="PrbxnBLegYp9oezdZi4Q" name="Page-1">
     <mxGraphModel dx="1248" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,14 +24,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ku-VLZCVoR1rDkrykhIs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ku-VLZCVoR1rDkrykhIs-3" target="ku-VLZCVoR1rDkrykhIs-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ku-VLZCVoR1rDkrykhIs-3" value="login successfully" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="250" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ku-VLZCVoR1rDkrykhIs-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ku-VLZCVoR1rDkrykhIs-5" value="Training" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
@@ -39,11 +33,14 @@
         <mxCell id="ku-VLZCVoR1rDkrykhIs-6" value="Financial&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ku-VLZCVoR1rDkrykhIs-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" edge="1" parent="1" source="ku-VLZCVoR1rDkrykhIs-7" target="ku-VLZCVoR1rDkrykhIs-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ku-VLZCVoR1rDkrykhIs-7" value="HR" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ku-VLZCVoR1rDkrykhIs-8" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="ku-VLZCVoR1rDkrykhIs-8" value="etc." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ku-VLZCVoR1rDkrykhIs-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ku-VLZCVoR1rDkrykhIs-3" target="ku-VLZCVoR1rDkrykhIs-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -81,12 +78,18 @@
             <mxPoint x="440" y="320" as="targetPoint" />
             <Array as="points">
               <mxPoint x="420" y="400" />
-              <mxPoint x="758" y="400" />
+              <mxPoint x="668" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ku-VLZCVoR1rDkrykhIs-18" value="......" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="595" y="440" width="70" height="40" as="geometry" />
+          <mxGeometry x="469" y="440" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ku-VLZCVoR1rDkrykhIs-21" value="Employees" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ku-VLZCVoR1rDkrykhIs-23" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Bonuses and penalties&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="20" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
