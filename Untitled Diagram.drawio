@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T05:11:35.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2lZieG3PELiCyfMshpqC" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T05:15:14.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="VEpuCJkUzuJQPc5925ss" version="20.5.3" type="github">
   <diagram id="PrbxnBLegYp9oezdZi4Q" name="Page-1">
-    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,11 +65,19 @@
         <mxCell id="ku-VLZCVoR1rDkrykhIs-6" value="Financial&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="157" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ku-VLZCVoR1rDkrykhIs-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="1" source="ku-VLZCVoR1rDkrykhIs-7" target="ku-VLZCVoR1rDkrykhIs-21" edge="1">
+        <mxCell id="ku-VLZCVoR1rDkrykhIs-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ku-VLZCVoR1rDkrykhIs-7" target="ku-VLZCVoR1rDkrykhIs-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="66" y="550" />
-              <mxPoint x="66" y="550" />
+              <mxPoint x="-20" y="460" />
+              <mxPoint x="-20" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9bPh8LocPnVZYQt3kXTt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ku-VLZCVoR1rDkrykhIs-7" target="9bPh8LocPnVZYQt3kXTt-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="460" />
+              <mxPoint x="-20" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -125,11 +133,8 @@
         <mxCell id="ku-VLZCVoR1rDkrykhIs-18" value="......" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="469" y="440" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ku-VLZCVoR1rDkrykhIs-21" value="Employees" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="ku-VLZCVoR1rDkrykhIs-21" value="employees" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="3" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ku-VLZCVoR1rDkrykhIs-23" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Bonuses and penalties&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="4" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9bPh8LocPnVZYQt3kXTt-1" value="courses&lt;br&gt;management" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="570" width="120" height="60" as="geometry" />
@@ -137,7 +142,7 @@
         <mxCell id="9bPh8LocPnVZYQt3kXTt-3" value="certificates&lt;br&gt;generator" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9bPh8LocPnVZYQt3kXTt-5" value="check new" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9bPh8LocPnVZYQt3kXTt-5" value="check salary&lt;br&gt;updates" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9bPh8LocPnVZYQt3kXTt-9" value="check employee&lt;br&gt;balance" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -145,6 +150,9 @@
         </mxCell>
         <mxCell id="9bPh8LocPnVZYQt3kXTt-11" value="generate financial&lt;br&gt;reports" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="157" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9bPh8LocPnVZYQt3kXTt-13" value="bonuses and&lt;br&gt;penalties" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
